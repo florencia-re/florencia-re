@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hola! Soy Flor! Desarrolladora WEB FullStack en Javascript, con enfoque en frontend.<br>Actualmente estoy estudiando Diseño UX/UI. <br>Trabajaba en el sector administrativo cuando leí un artículo de programación, empecé a aprender sobre este apasionante mundo y me di cuenta en el camino que es algo a lo que me quiero dedicar 100%.<br>Aquí podrás encontrar algunos de los trabajos que realicé en este último tiempo.<br><br>Si te interesó mi perfil y querés saber más de mí podes contactarme aqui:<br>E-mail: florencia.re@hotmail.com
+Hola! Soy Flor! Desarrolladora WEB Full Stack en Javascript.<br>Actualmente estoy estudiando Diseño UX/UI. <br>Trabajaba en el sector administrativo cuando leí un artículo de programación, empecé a aprender sobre este apasionante mundo y me di cuenta en el camino que es algo a lo que me quiero dedicar 100%.<br>Aquí podrás encontrar algunos de los trabajos que realicé en este último tiempo.<br><br>Si te interesó mi perfil y querés saber más de mí podes contactarme aqui:<br>E-mail: florencia.re@hotmail.com
 
 
 ## 🌐 Socials:
